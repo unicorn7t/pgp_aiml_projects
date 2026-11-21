@@ -1,4 +1,4 @@
-name: Tourism Project Pipeline
+name: SuperKart MLOps Pipeline
 
 on:
   push:
